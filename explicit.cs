@@ -8,7 +8,7 @@ namespace ITC
         public static void main()
         {
             double d= 97.123;
-            //explicit type conversion
+            // explicit type conversion
             int i = (int)d;
             
             //output
