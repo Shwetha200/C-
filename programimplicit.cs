@@ -13,9 +13,9 @@ namespace ITC
             float f=l;
             //output
             console.WriteLine("Int value"+i);
-            console.WriteLine("long value"+l);
-            console.WriteLine("Float value"+f);
-            console.WriteLine("Float value"+f);
+            // console.WriteLine("long value"+l);
+            // console.WriteLine("Float value"+f);
+            // console.WriteLine("Float value"+f);
         }
 
     }
